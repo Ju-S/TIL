@@ -44,4 +44,5 @@ Markdown
 
 `text [^footnote name]..... \[^footnote name]:footnote name.` is footnote for some text.  
 text[^footnote]  
+
 [^footnote]: footnote.  
