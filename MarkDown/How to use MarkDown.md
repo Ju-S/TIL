@@ -40,8 +40,4 @@ Markdown
 > blockqutoes
 >>1. unordered is work ordered too  
 >>1. yee  
->>* yeee
-
-`text [^footnote name]..... \[^footnote name]:footnote name.` is footnote for some text.  
-text[^footnote]  
-[^footnote]: footnote.  
+>>* yeee 
