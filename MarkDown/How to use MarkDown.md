@@ -13,7 +13,7 @@
 `'*text*' is italic text`  
 *text*  
 
-`'[title of link](https://github.com/Ju-S/TIL "some text")' is link text`
+`'[title of link](https://github.com/Ju-S/TIL "some text")' is link text`  
 [title of link](https://github.com/Ju-S/TIL "some text")
 
 `* or - is bullet lists`  
