@@ -7,6 +7,8 @@
 
 `'**text**' is bold text`  
 **text**  
+`'~~text~~' is strikethrough`
+~~text~~
 
 `'*text*' is italic text`  
 *text*  
