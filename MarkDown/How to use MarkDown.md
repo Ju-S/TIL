@@ -2,9 +2,8 @@
 # How to use MarkDown
 ## command
 #### two whiteSpace is line alignment
-#### '<!-- 121 -->' is remark  
+#### '`<!-- text -->`' is remark  
 #### 1 Grave Accent(`) is code line and 3 is code block
----
 
 `'**text**' is bold text`  
 **text**  
