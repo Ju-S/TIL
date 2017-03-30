@@ -34,4 +34,8 @@ void loop() {
     }
     lastButtonState[i] = buttonState[i];
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> ae0945b95fa84cf0a9178b2627cea3ae9220ab86

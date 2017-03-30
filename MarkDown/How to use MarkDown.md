@@ -2,16 +2,22 @@
 # How to use MarkDown
 ## command
 #### two whiteSpace is line alignment
+<<<<<<< HEAD
 #### '`<!-- text -->`' is remark  
+=======
+#### `<!-- text -->` is remark  
+>>>>>>> ae0945b95fa84cf0a9178b2627cea3ae9220ab86
 #### 1 Grave Accent(`) is code line and 3 is code block
 
 `'**text**' is bold text`  
 **text**  
+`'~~text~~' is strikethrough`  
+~~text~~
 
 `'*text*' is italic text`  
 *text*  
 
-`'[title of link](https://github.com/Ju-S/TIL "some text")' is link text`
+`'[title of link](https://github.com/Ju-S/TIL "some text")' is link text`  
 [title of link](https://github.com/Ju-S/TIL "some text")
 
 `* or - is bullet lists`  
@@ -26,8 +32,8 @@
 
 1. like this
 1. ye
- * yeeee
- * yee
+  * yeeee
+  * yee
 1. yes!
 
 `'text : explain' is definition lists`  
@@ -38,4 +44,4 @@ Markdown
 > blockqutoes
 >>1. unordered is work ordered too  
 >>1. yee  
->>1. yeee
+>>* yeee 
