@@ -1,9 +1,9 @@
-#unity  
-##Variables, ControlStatements, and Loops  
+# unity  
+## Variables, ControlStatements, and Loops  
 unity's variables, control statements, loops is just like [C#](https://github.com/Ju-S/TIL/CSharp)  
 ---
 
-##Basic Methods  
+## Basic Methods  
 `print` is just print some text in unity console.  
 `void Start() {  }` is start when game is start.  
 `void Update() {  }` is infinite loop when during a game is runing.  
