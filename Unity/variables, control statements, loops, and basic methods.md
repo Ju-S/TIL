@@ -1,7 +1,6 @@
 # unity  
 ## Variables, ControlStatements, and Loops  
 unity's variables, control statements, loops is just like [C#](https://github.com/Ju-S/TIL/CSharp)  
----
 
 ## Basic Methods  
 `print` is just print some text in unity console.  
