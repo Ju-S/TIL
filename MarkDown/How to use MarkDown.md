@@ -2,11 +2,7 @@
 # How to use MarkDown
 ## command
 #### two whiteSpace is line alignment
-<<<<<<< HEAD
-#### '`<!-- text -->`' is remark  
-=======
 #### `<!-- text -->` is remark  
->>>>>>> ae0945b95fa84cf0a9178b2627cea3ae9220ab86
 #### 1 Grave Accent(`) is code line and 3 is code block
 
 `'**text**' is bold text`  
@@ -44,4 +40,4 @@ Markdown
 > blockqutoes
 >>1. unordered is work ordered too  
 >>1. yee  
->>* yeee 
+>>* yeee
