@@ -46,3 +46,7 @@ Command
 ---
 ##### git push
 `git push origin master` is push the **staging area file** on github.
+
+---
+#### git fetch
+`git fetch [URL]` is get all data of [URL] but skip merge.
